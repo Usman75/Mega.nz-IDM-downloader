@@ -6,7 +6,7 @@ This method will allow you to download whatever size on [Mega.nz](https://mega.n
 ## Requirements
 
 * [MEGAsync](https://mega.nz/MEGAsyncSetup.exe)
-* [Internet Download Manager](https://www.internetdownloadmanager.com/) ([Mirror](https://www.softpedia.com/get/Internet/Download-Managers/Internet-Download-Manager.shtml))
+* [Internet Download Manager](https://www.internetdownloadmanager.com/) ([Mirror](https://www.softpedia.com/get/Internet/Download-Managers/Internet-Download-Manager.shtml)) (it also works with other download manager!)
 
 
 ## HowTo for "private links"
@@ -26,7 +26,7 @@ Enter your account data, then click "Next".
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/3.png)
  
  
-Now you are logged in.
+Now you are logged in into your Mega Account.
 
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/4.png)
 
@@ -119,12 +119,12 @@ Click "Public link
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/20.png)
  
  
-Copy the Mega link you want to download (For example Win LTSC 2019 x64 from the 1st post)
+Copy the Mega link you want to download (e.g. Win LTSC 2019 x64).
 
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/21.png)
  
  
-Paste the link and click "OK"
+Paste the link and click "OK".
 
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/22.png)
 
@@ -134,6 +134,7 @@ This's the link that will be added to IDM - Don't close that window until your d
 
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/23.png)
  
+
 Your link has been copied to the clipboard
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/24.png)
 
