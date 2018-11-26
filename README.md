@@ -9,7 +9,7 @@ This method will allow you to download whatever size on [Mega.nz](https://mega.n
 * [Internet Download Manager](https://www.internetdownloadmanager.com/) ([Mirror](https://www.softpedia.com/get/Internet/Download-Managers/Internet-Download-Manager.shtml))
 
 
-## HowTo
+## HowTo for "private links"
 
 Double click on the MEGAsyncSetup.exe client tool after installing it.
 
