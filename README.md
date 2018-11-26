@@ -13,26 +13,26 @@ This method will allow you to download whatever size on mega.nz.
 
 Double click the tool after installing it
 
-![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/1.png) "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/1.png)
 
  
 Login with your Mega account (or create a new one if you haven't)
-![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/2.png) "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/2.png)
  
 Enter your account data, then "Next"
-![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/3.png) "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/3.png)
  
 Now you are logged in
-![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/4.png) "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/4.png)
 
 Open the Mega link you want to download, and choose "Import to my Cloud Drive"
-![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/5.png) "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/5.png)
 
 Import
-![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/6.png) "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/6.png)
 
 Then click the marks near the file/folder
-![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/7.png) "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/7.png)
 
 
 Get link
