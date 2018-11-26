@@ -1,6 +1,6 @@
 # Mega.nz IDM Downloader
 
-This method will allow you to download whatever size on [Mega.nz](https://mega.nz/).
+This method will allow you to download whatever size on [Mega.nz](https://mega.nz/). There are two methods, one is for private links and one is for public links.
 
 
 ## Requirements
@@ -103,3 +103,57 @@ Wait till IDM catches the download
 And that's it!
 
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/18.png)
+
+
+
+
+## HowTo for "public links"
+
+After logging in: From "Settings" >> choose "Stream"
+
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/19.png)
+ 
+
+Click "Public link
+
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/20.png)
+ 
+ 
+Copy the Mega link you want to download (For example Win LTSC 2019 x64 from the 1st post)
+
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/21.png)
+ 
+ 
+Paste the link and click "OK"
+
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/22.png)
+
+ 
+Here will appear another link .. Click the mark clarified to copy it;
+This's the link that will be added to IDM - Don't close that window until your download is complete
+
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/23.png)
+ 
+Your link has been copied to the clipboard
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/24.png)
+
+ 
+As I said: Don't close that window until your download is complete; Otherwise download will stop.
+Just minimize it.
+
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/25.png)
+
+ 
+Now open IDM and add the link
+
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/26.png)
+
+ 
+Wait till IDM catches the download
+
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/27.png)
+
+
+ANd that's it!
+
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/28.png)
