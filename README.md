@@ -26,12 +26,12 @@ Enter your account data, then click "Next".
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/3.png)
  
  
-Now you are logged in
+Now you are logged in.
 
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/4.png)
 
 
-Open the Mega link you want to download, and choose "Import to my Cloud Drive"
+Open the Mega link you want to download, and choose "Import to my Cloud Drive".
 
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/5.png)
 
@@ -41,28 +41,27 @@ Import
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/6.png)
 
 
-Then click the marks near the file/folder
+Then click the marks near the file/folder.
 
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/7.png)
 
 
-Get link
+Get the link.
 
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/8.png)
 
 
-Copy
+Copy it.
 
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/9.png)
 
 
-Now return to the MEGAsync tool, and from "Settings" >> choose "Stream"
+Now return to the MEGAsync tool, and from "Settings" -> choose "Stream".
 
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/10.png)
 
 
-Click on "Cloud Drive" .... 
-If the link is public you don't need to add it to your drive from the beginning and just copy it and click "Public link" to add it
+Click on "Cloud Drive". If the link is public you don't need to add it to your drive from the beginning and just copy it and click "Public link" to add it.
 
 
 Choose from the list files you want to download [Only files (NOT folders) can be used for streaming]
@@ -90,12 +89,12 @@ Just minimize it.
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/15.png)
 
 
-Now open IDM and add the link
+Now open IDM and add the link.
 
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/16.png)
 
 
-Wait till IDM catches the download
+Wait till IDM catches the download.
 
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/17.png)
 
@@ -103,6 +102,7 @@ Wait till IDM catches the download
 And that's it!
 
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/18.png)
+
 
 
 
@@ -154,6 +154,6 @@ Wait till IDM catches the download
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/27.png)
 
 
-ANd that's it!
+And that's it!
 
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/Mega.nz-IDM-downloader/master/pictures/28.png)
