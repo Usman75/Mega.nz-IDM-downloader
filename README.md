@@ -6,7 +6,7 @@ This method will allow you to download whatever size on [Mega.nz](https://mega.n
 ## Requirements
 
 * [MEGAsync](https://mega.nz/MEGAsyncSetup.exe)
-* [Internet Download Manager](https://www.internetdownloadmanager.com/) ([Mirror](https://www.softpedia.com/get/Internet/Download-Managers/Internet-Download-Manager.shtml)) (it also works with other download manager!)
+* [Internet Download Manager](https://www.internetdownloadmanager.com/) ([Mirror](https://www.softpedia.com/get/Internet/Download-Managers/Internet-Download-Manager.shtml)) It also works with other download managers too!
 
 
 ## HowTo for "private links"
